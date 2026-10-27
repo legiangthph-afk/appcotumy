@@ -1,0 +1,7 @@
+{
+  "name": "Mầm Trí Tuệ AI - Lớp 1/2",
+  "description": "Ứng dụng quản lý lớp học số, thi đua học tập, kho bài tập tương tác GDPT 2018, 10 trò chơi giáo dục và Trợ lý Bé Mầm AI cho Lớp 1/2 Trường Tiểu học Hoà Sơn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
